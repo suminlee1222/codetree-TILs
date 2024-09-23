@@ -18,7 +18,7 @@ public class Main {
             }
         }
 
-        System.out.println(n * m / gcd);
+        System.out.println((n * m) / gcd);
 
     }
 }
