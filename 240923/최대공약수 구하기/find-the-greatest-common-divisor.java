@@ -18,7 +18,7 @@ public class Main {
             }
         }
 
-    System.out.print(gcd);;
+    System.out.print(gcd);
 
     }
 }
