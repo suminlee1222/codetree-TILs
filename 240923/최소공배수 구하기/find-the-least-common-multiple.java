@@ -17,8 +17,8 @@ public class Main {
                 gcd = i;
             }
         }
-
-        System.out.println((n * m) / gcd);
+        int scd = (n*m) / gcd;
+        System.out.println(scd);
 
     }
 }
