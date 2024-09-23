@@ -12,7 +12,7 @@ public class Main {
 
     public static void print(int n, int m){
         int gcd = 0;
-        for(int i = 2; i < m; i++){
+        for(int i = 2; i <= m; i++){
             if(n % i == 0 && m % i == 0){
                 gcd = i;
             }
